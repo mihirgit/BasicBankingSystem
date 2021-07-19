@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #aef4fd;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #83f1c3!important;
+}
+
+.navbar-brand{
+    font-family: 'Arial';
+    font-size: 1.5rem;
+    color: #0f0f0f!important;
+}
+
+.nav-link{
+    color: #121213!important;
+    font-family: 'Arial';
+}
+
+.nav-link:hover{
+    background-color: #ec4f4f;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(19, 20, 20)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(236, 29, 14)!important;
+}
